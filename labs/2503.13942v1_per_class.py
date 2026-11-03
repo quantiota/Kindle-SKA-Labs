@@ -1,4 +1,4 @@
-# Course 1 - Foundation of SKA
+# Foundations of SKA, Part I — Lab 4: per-class entropy
 import torch
 import torch.nn as nn
 import numpy as np
