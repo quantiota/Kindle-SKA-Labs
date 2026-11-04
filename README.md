@@ -6,6 +6,7 @@ Learning** by Dr. Bouarfa Mahi.
 
 | File | Used in |
 |---|---|
+| `labs/ska_step.py` | Listing 7.1: one SKA step as tensor operations (Chapter 7, Appendix C) |
 | `labs/2503.13942v1_per_class.py` | Lab 4: the reference script with per-class measurements |
 | `labs/dataset/mnist_subset_100_per_class.pt` | all labs: 1,000 images, 100 of each digit 0–9 |
 | `labs/dataset/mnist_subset_1_per_class.pt` | Lab 4, Run 1: one of each digit |
